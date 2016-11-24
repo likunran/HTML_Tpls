@@ -1,0 +1,1 @@
+Cufon.replace('.site-nav ul li', { fontFamily: 'Jikharev', hover:{textShadow:'1px 1px #fff'} });
