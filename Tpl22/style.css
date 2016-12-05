@@ -1,0 +1,40 @@
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;text-align:center}
+.fclear {clear:both}
+body {margin:0;font-size:13px;font-family:arial;color:#3F3F3F;background:#CBCBC6}
+.outer {width:963px;background:#fff}
+.name {font-size:35px;color:#9B0033;padding-left:15px;height:70px}
+.name2 {color:#3F3F3F}
+.tag {font-size:18px;color:#CD3164;padding-left:167px}
+#rc1 {width:8px;height:45px;background-image:url(images/rc.gif);background-repeat:no-repeat}
+#rc2 {width:8px;height:45px;background-image:url(images/rc2.gif);background-repeat:no-repeat}
+.toplinks {height:34px;width:148px;text-align:center;font-weight:bold;font-size:11px;text-transform:uppercase}
+.toplinks a {text-decoration:none;color:#fff}
+.toplinks a:hover {text-decoration:none;color:#383838}
+.sap {width:1px;color:#fff}
+#left {width:200px;background:#F6F5F5;border:1px solid #E2E2E2}
+.leftlinks {height:25px;line-height:25px;font-family:tahoma;font-size:11px}
+.leftlinks a {text-decoration:none;color:#363C49;display:block;padding-left:13px;border-bottom:1px solid #E7E6E6}
+.leftlinks a:hover {text-decoration:none;color:#000;background:#F2F2F0}
+.cat-head {height:38px;text-decoration:none;color:#383838;padding-left:15px;text-transform:uppercase;font-weight:bold;background:#E7E6E6;font-size:11px}
+#header {background-image:url(images/beauty.jpg);background-repeat:no-repeat;height:198px}
+.box-border {width:350px;height:252px;border:1px solid #E3DFDF}
+.box-head {height:30px;text-transform:uppercase;font-family:tahoma;font-size:12px;color:#000;padding-left:20px;background:#EDEDED;font-weight:bold}
+.smal-txt {font-family:tahoma;font-size:11px;color:#000;padding-left:15px}
+.price {font-family:tahoma;font-size:15px;color:#000;font-weight:bold}
+.add {height:16px;font-weight:bold;font-size:11px;font-family:tahoma;background-image:url(images/add.gif);background-repeat:no-repeat;color:#fff;padding-left:10px}
+.add a {text-decoration:none;color:#fff}
+.add a:hover {text-decoration:none;color:#000}
+.details {height:16px;font-weight:bold;font-size:11px;font-family:tahoma;background-image:url(images/details.gif);background-repeat:no-repeat;color:#fff;padding-left:10px}
+.details a {text-decoration:none;color:#fff}
+.details a:hover {text-decoration:none;color:#000}
+.heading2 {height:40px;line-height:40px;text-decoration:none;color:#474747;padding-left:15px;text-transform:uppercase;font-weight:bold}
+.bottomlinks {width:100px;font-size:11px;text-align:center;font-family:tahoma}
+.bottomlinks a {color:#000;text-decoration:none}
+.bottomlinks a:hover {color:#fff;text-decoration:none}
+#footer {padding:11px 0}
+.sap2 {color:#000;width:1px}
+a {color:#B4CA41;text-decoration:underline}
+a:hover {color:#B4CA41;text-decoration:none}
