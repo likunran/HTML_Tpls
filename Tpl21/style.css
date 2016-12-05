@@ -1,0 +1,67 @@
+* {margin:0;padding:0}
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;width:96%}
+.fclear {clear:both}
+body {font-family:Arial,Helvetica,sans-serif;font-size:12px;background:#fff;color:#526374}
+img {border:0}
+#container {width:940px;background:#fff;margin:0 auto} 
+#header {width:940px;height:374px} 
+.headerTop {height:92px}
+.dietProfile {padding:53px 0 0 70px}
+.dietProfile span {color:#8e9eae;font-size:24px}
+.start {padding-top:2px}
+input {width:50px}
+.nameProfile {width:100px}
+.fm {width:20px}
+.plans {float:right;margin:53px 300px 0 0;text-align:left}
+.plans span {color:#fff;font-size:24px}
+.plans li {list-style:none;margin:10px 0}
+.plans li a {color:#fff;background:url(images/b.png) no-repeat left 8px;text-decoration:none;height:20px;padding:11px 0 0 25px}
+.plans li a:hover {color:#fff;background:url(images/a.png) no-repeat left 8px;padding:11px 0 0 25px;text-decoration:none}
+.logo {float:left}
+.headerBackground {background:url(images/headerPic.jpg) no-repeat left top;height:282px}
+#mainContent {margin-bottom:20px}
+#mainContent h1 {color:#9acb2a;font-size:24px} 
+#footer {width:940px;height:84px;background:url(images/footerBackground.jpg) no-repeat left top} 
+#footer p {padding:11px}
+.ftt {float:left}
+.rss {float:right}
+.copyright {text-align:center;padding-top:25px}
+.copyright a, #mainContent a {color:#79b9f6;font-size:12px;font-weight:bold;text-decoration:underline}
+.copyright a:hover, #mainContent a {color:#79b9f6;font-size:12px;font-weight:bold;text-decoration:none}
+.clearfloat {clear:both;height:0;font-size:1px;line-height:0}
+/* begin main menu */
+#mainMenu {font-size:24px;line-height:normal;padding-top:25px;float:right}
+#mainMenu ul {list-style-type:none;margin:0;padding:0;margin-left:20px}
+#mainMenu li {display:inline;margin:0;padding:0}
+#mainMenu a {float:left;background:url(images/glowtab-left.jpg) no-repeat left top;margin:0;margin-left:4px;padding:0 0 0 15px;text-decoration:none}
+#mainMenu a span {float:left;display:block;background:url(images/glowtab.jpg) no-repeat right top;padding:7px 15px 6px 3px;font-weight:bold;color:#8e9eae;height:30px}
+#mainMenu a span {float:none}
+#mainMenu a:hover span {color:#79b9f6}
+#mainMenu #current a {background-position:0 -43px}
+#mainMenu #current a span {background-position:100% -43px;color:#79b9f6}
+#mainMenu a:hover {background-position:0% -43px}
+#mainMenu a:hover span {background-position:100% -43px}
+/* end main menu */
+/* begin border corners */
+.t {background:#fff url(images/dot.gif) 0 0 repeat-x}
+.b {background:url(images/dot.gif) 0 100% repeat-x}
+.l {background:url(images/dot.gif) 0 0 repeat-y}
+.r {background:url(images/dot.gif) 100% 0 repeat-y}
+.bl {background:url(images/bl.gif) 0 100% no-repeat}
+.br {background:url(images/br.gif) 100% 100% no-repeat}
+.tl {background:url(images/tl.gif) 0 0 no-repeat}
+.tr {background:url(images/tr.gif) 100% 0 no-repeat;padding:10px 20px} 
+/* end border corners */
+.steps {float:left;width:217px;margin:15px 9px}
+.steps .step1, .steps .step2, .steps .step3, .steps .step4 {font-size:24px;color:#8e9eae;vertical-align:middle;padding-left:35px;padding-top:2px;margin-top:10px}
+.steps .step1 {background:url(images/step1.jpg) no-repeat left top}
+.steps .step2 {background:url(images/step2.jpg) no-repeat left top}
+.steps .step3 {background:url(images/step3.jpg) no-repeat left top}
+.steps .step4 {background:url(images/step4.jpg) no-repeat left top}
+.steps p {margin:10px 0}
+.steps a {background:url(images/seeMorePic.jpg) no-repeat left top;padding-left:20px;padding-top:3px}
+.steps a:hover {background:url(images/seeMorePicHover.jpg) no-repeat left top;padding-left:20px;padding-top:3px}
+.steps img {margin:10px 0}
