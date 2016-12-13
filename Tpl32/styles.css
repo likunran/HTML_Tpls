@@ -1,0 +1,91 @@
+* {margin:0;padding:0}
+.fleft {float:left}
+.fright {float:right}
+.fcenter {float:none;text-align:center}
+.fclear {clear:both}
+.inner_copy {border:0;color:#f00;float:right;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+body {margin:0;padding:0;background:#fffde4 url(images/bodyBg.jpg) repeat-x}
+#mainWrap {width:100%;margin:0;padding:0;float:left;background:url(images/headBg.jpg) no-repeat}
+#mainPanel {width:990px;margin:0;padding:0;float:left}
+#logoWrap {width:100%;margin:0;padding:0;float:left}
+h1 {width:223px;height:48px;margin:20px 0 0 0;padding:0 110px;float:right;line-height:10px;text-indent:-9999px;background:url(images/logo.png) no-repeat}
+#loginPanel {width:397px;margin:28px 0 0 0;padding:0 0 0 546px;float:left}
+#loginPanel h2 {width:397px;margin:0;padding:0;float:left;font-family:Georgia;font-size:27px;color:#497f35;line-height:31px;font-weight:normal}
+#loginPanel input {width:175px;height:18px;margin:9px 0 0 0;padding:3px 0 0 5px;float:left;font-family:Arial;font-size:10px;color:#bb9d59;line-height:14px;border:0;background:#f9f6d4}
+#loginPanel .blank {width:25px;height:21px;margin:0;padding:0;float:left}
+#loginPanel p {width:253px;margin:10px 0 0 0;padding:0;float:left;font-family:Arial;font-size:16px;color:#ab8e4e;line-height:20px}
+#loginPanel p a {color:#943415;text-decoration:none}
+#loginPanel .login {width:66px;height:20px;margin:10px 0 0 0;padding:0;float:left;font-family:Arial;font-size:11px;color:#943415;line-height:20px;text-align:center;text-decoration:none;background:url(images/loginBg.jpg) no-repeat}
+#quots {width:990px;margin:145px 0 0 0;padding:0;float:left}
+#quots p {margin:0;font-family:Georgia;font-size:28px;color:#497f35;line-height:32px;text-align:center;text-indent:50px}
+#leftPanel {width:637px;margin:27px 0 0 0;padding:0 0 0 35px;float:left}
+#leftPanel .about {width:604px;margin:0;padding:0;float:left}
+#leftPanel .about h2 {width:604px;margin:0;padding:0;float:left;font-family:Georgia;font-size:30px;color:#0b636b;line-height:34px;font-weight:normal}
+#leftPanel .about h3 {width:604px;margin:4px 0 0 0;padding:0;float:left;font-family:Georgia;font-size:18px;color:#943415;line-height:32px;font-weight:normal}
+#leftPanel .about p {width:590px;margin:3px 0 0 0;padding:0;float:left;font-family:Arial;font-size:12px;color:#bb9d59;line-height:16px}
+#leftPanel .about p span {font-weight:bold}
+#leftPanel .about .date {width:600px;height:29px;margin:30px 0 0 0;padding:0;float:left;background:#f9f6d4}
+#leftPanel .about .date .left {width:139px;height:29px;margin:0;padding:0 0 0 35px;float:left;font-family:Arial;font-size:11px;color:#bb9d59;line-height:30px;font-weight:bold;background:url(images/cal.jpg) no-repeat 11px 0}
+#leftPanel .about .date .right {width:65px;height:29px;margin:0;padding:0 0 0 38px;float:left;background:url(images/read.jpg) no-repeat 12px 0}
+#leftPanel .about .date .right a {font-family:Arial;font-size:11px;color:#943415;line-height:30px;font-weight:bold;text-decoration:none}
+#leftPanel .services {width:604px;margin:34px 0 0 0;padding:0;float:left}
+#leftPanel .services h2 {width:604px;margin:0;padding:0;float:left;font-family:Georgia;font-size:24px;color:#2c787b;line-height:28px;font-weight:normal}
+#leftPanel .services .pic {width:163px;height:202px;margin:15px 0 0 0;padding:0 0 0 28px;float:left;background:url(images/pic1.jpg) no-repeat}
+#leftPanel .services .pic a {font-family:Arial;font-size:10px;color:#943415;line-height:14px;margin:146px 0 0 0;padding:0;float:left;width:123px}
+#leftPanel .services p {width:390px;margin:14px 0 0 0;padding:0 0 0 20px;float:left;font-family:Arial;font-size:12px;color:#bb9d59;line-height:16px}
+#leftPanel .services p span {font-weight:bold}
+#leftPanel .services h3 {width:390px;margin:13px 0 0 0;padding:0 0 0 20px;float:left;font-family:Georgia;font-size:18px;color:#5c4527;line-height:22px;font-weight:normal}
+#leftPanel .services ul {width:390px;margin:5px 0 0 0;padding:0 0 0 20px;float:left;display:block}
+#leftPanel .services ul li {width:390px;margin:0;padding:0;float:left;display:block}
+#leftPanel .services ul li a {width:372px;height:22px;margin:0;padding:0 0 0 18px;float:left;font-family:Arial;font-size:11px;color:#943415;line-height:20px;font-weight:bold;text-decoration:none;border-bottom:#d8cd2f dashed 1px;background:url(images/listStyle.jpg) no-repeat 2px 6px}
+#leftPanel .services ul li a.bottom {width:372px;height:22px;margin:0;padding:0 0 0 18px;float:left;font-family:Arial;font-size:11px;color:#943415;line-height:20px;text-decoration:none;border-bottom:0;background:url(images/listStyle.jpg) no-repeat 2px 6px}
+#leftPanel .testimonial {width:590px;margin:0;padding:0;float:left}
+#leftPanel .testimonial h2 {width:590px;margin:30px 0 0 0;padding:0;float:left;font-family:Georgia;font-size:24px;color:#2c787b;line-height:28px;font-weight:normal}
+#leftPanel .testimonial p {width:590px;margin:13px 0 0 0;padding:0;float:left;font-family:Arial;font-size:12px;color:#bb9d59;line-height:16px;text-indent:12px;background:url(images/quo.jpg) no-repeat}
+#leftPanel .testimonial p span {font-weight:bold}
+/*#leftPanel .testimonial p .dqo {width:11px;height:9px;text-indent:-9999px;background:url(images/quo.jpg) no-repeat}*/
+#leftPanel .testimonial h3 {width:100px;height:17px;margin:6px 0 0 0;padding:0 0 12px 28px;float:left;font-family:Arial;font-size:11px;color:#943415;font-weight:bold;background:url(images/testimIco.jpg) no-repeat}
+#leftPanel .testimonial h3 span {font-weight:normal}
+#rightPanel {width:266px;margin:40px 0 0 0;padding:0 0 74px 36px;float:left;background:url(images/rigthBg.jpg) no-repeat}
+#rightPanel h2 {width:262px;margin:0;padding:0;float:left;font-family:Georgia;font-size:24px;color:#0b636b;line-height:28px;font-weight:normal}
+#rightPanel .view {width:58px;margin:3px 2px 0 0;padding:0 0 0 15px;float:right;font-family:Arial;font-size:11px;color:#943415;font-weight:bold;text-decoration:none;background:url(images/listStyle.jpg) no-repeat 0 4px}
+#rightPanel .pic1,#rightPanel .pic2, #rightPanel .pic3 {width:262px;height:68px;margin:15px 0 0 0;padding:0;float:left}
+#rightPanel .pic1 {background:url(images/pic2.jpg) no-repeat}
+#rightPanel .pic2 {background:url(images/pic3.jpg) no-repeat}
+#rightPanel .pic3 {background:url(images/pic4.jpg) no-repeat}
+#rightPanel .contacts {width:266px;margin:18px 0 0 0;padding:0;float:left}
+#rightPanel .contacts h2 {padding:0 0 2px 0}
+#rightPanel .contacts p {width:42px;height:19px;margin:12px 0 0 0;padding:0;float:left;font-family:Arial;font-size:12px;font-weight:bold;color:#bb9d59;line-height:18px}
+#rightPanel .contacts input {width:207px;height:16px;margin:12px 0 0 0;padding:2px 0 0 9px;float:left;font-family:Arial;font-size:10px;color:#000;border:#e8e6c8 solid 1px;background:#f8f5d2}
+#rightPanel .contacts a {width:93px;height:19px;margin:12px 0 0 0;padding:0;float:left;font-family:Arial;font-size:11px;color:#943415;line-height:18px;text-align:center;text-decoration:none;background:url(images/contactsBg.jpg) no-repeat}
+#rightPanel .contacts .blank {width:10px;height:19px;margin:0;padding:0;float:left}
+#rightPanel .contacts .blank2 {width:42px;height:19px;margin:12px 0 0 0;padding:0;float:left}
+#rightPanel .project {width:266px;margin:30px 0 0 0;padding:0;float:left}
+#rightPanel .project ul {width:260px;margin:8px 0 0 0;padding:0;float:left;display:block}
+#rightPanel .project ul li {width:260px;margin:0;padding:0;float:left;display:block}
+#rightPanel .project ul li a {width:250px;height:21px;margin:0;padding:0 0 0 10px;float:left;font-family:Arial;font-size:12px;color:#bb9d59;line-height:18px;text-decoration:none;background:url(images/listbg.jpg) no-repeat}
+#rightPanel .project ul li a:hover {font-weight:bold;color:#943415}
+#rightPanel .project ul li a.bottom {width:250px;height:20px;margin:0;padding:0 0 0 10px;float:left;font-family:Arial;font-size:12px;color:#bb9d59;line-height:18px;text-decoration:none;background:url(images/listbg.jpg) no-repeat}
+#rightPanel .project ul li a.bottom:hover {font-weight:bold;color:#943415} 
+#footPanel {width:923px;margin:0 auto;padding:25px 0 29px 0;float:left;background:url(images/footbg.jpg) no-repeat center top}
+#footPanel .nav {width:923px;margin:0;padding:0;float:left}
+#footPanel .nav ul {width:375px;margin:0 auto;padding:0;display:block}
+#footPanel .nav ul li {width:auto;margin:0;float:left;padding:0;display:block}
+#footPanel .nav ul li .blank {width:auto;margin:0;padding:0 7px 0 7px;float:left;font-family:Arial;font-size:11px;font-weight:bold;color:#943415}
+#footPanel .nav ul li a {width:auto;margin:0;float:left;padding:0;font-family:Arial;font-size:11px;font-weight:bold;color:#943415;text-decoration:none}
+#footPanel .copyright {width:800px;margin:0 auto;padding:5px 0 0 0;font-family:Arial;font-size:11px;color:#bb9d59;line-height:15px;text-align:center}
+#footPanel .designInfo {width:923px;margin:3px 0 0 0;padding:0;float:left;font-family:Arial;font-size:11px;font-weight:bold;color:#bb9d59;text-align:center}
+#footPanel .designInfo a {color:#943415;text-decoration:none}
+#footPanel .validation {width:923px;margin:4px 0 0 0;padding:0;float:left}
+#footPanel .validation ul {width:138px;margin:0 auto;padding:0;display:block}
+#footPanel .validation ul li {width:auto;margin:0;padding:0;float:left;display:block}
+#footPanel .validation ul li .blank {width:6px;height:17px;margin:0;padding:0;float:left}
+#footPanel .validation ul li a {width:66px;height:17px;margin:0;padding:0;float:left;font-family:Arial;font-size:10px;font-weight:bold;color:#943415;line-height:16px;text-align:center;text-decoration:none;background:url(images/validationBg.jpg) no-repeat}
+#menu {width:990px;margin:32px 0 0 0;padding:0;float:left}
+#menu ul {width:450px;margin:0;padding:0;float:right;display:block}
+#menu ul li {width:auto;margin:0;padding:0;float:left;display:block}
+#menu ul li a {width:auto;height:18px;margin:0;padding:0;float:left;font-family:Arial;font-size:12px;color:#45ada9;line-height:13px;text-decoration:none;cursor:pointer}
+#menu ul li a:hover {background:url(images/rightCurve.jpg) no-repeat right}
+#menu ul li a span {width:auto;height:16px;margin:0;padding:2px 8px 0 8px;float:left;cursor:pointer}
+#menu ul li a:hover span {background:url(images/leftCurve.jpg) no-repeat left}
+#menu ul li .blank {width:1px;height:18px;margin:0;padding:0 5px 0 5px;float:left;background:url(images/mBlank.jpg) no-repeat center top}
